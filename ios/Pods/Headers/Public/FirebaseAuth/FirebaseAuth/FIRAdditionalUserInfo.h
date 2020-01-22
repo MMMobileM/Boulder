@@ -1,0 +1,5 @@
+XSym
+0090
+bdafbc2d59d1dcc4b1a972ec974adc4d
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

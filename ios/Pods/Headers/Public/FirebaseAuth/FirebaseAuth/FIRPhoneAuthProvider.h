@@ -1,0 +1,5 @@
+XSym
+0089
+2a07b0988e5e4c0f78c96ba5989b18de
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

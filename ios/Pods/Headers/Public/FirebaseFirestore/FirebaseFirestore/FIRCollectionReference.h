@@ -1,0 +1,5 @@
+XSym
+0101
+4c56d57a7f79275cded3290ea50db7cf
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRCollectionReference.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

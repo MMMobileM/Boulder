@@ -1,0 +1,5 @@
+XSym
+0086
+fb56ed1860cc812c777cc8c60ae5bd4f
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

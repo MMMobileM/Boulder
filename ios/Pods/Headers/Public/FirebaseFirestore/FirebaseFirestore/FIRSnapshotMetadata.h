@@ -1,0 +1,5 @@
+XSym
+0098
+4e964ee3e27c2852fc134c68e8998d36
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRSnapshotMetadata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

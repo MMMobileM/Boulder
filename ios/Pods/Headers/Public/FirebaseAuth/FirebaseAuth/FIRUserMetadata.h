@@ -1,0 +1,5 @@
+XSym
+0084
+31d6c95c62881de03f00c0338b665de5
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

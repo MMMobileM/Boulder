@@ -1,0 +1,5 @@
+XSym
+0097
+b28b8d19fb14c6011d0a9b152e7d7765
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRFirestoreErrors.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

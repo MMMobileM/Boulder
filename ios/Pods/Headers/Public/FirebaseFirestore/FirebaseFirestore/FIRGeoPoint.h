@@ -1,0 +1,5 @@
+XSym
+0090
+b80c34f18ab3f81777dd3b605efcaf94
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRGeoPoint.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

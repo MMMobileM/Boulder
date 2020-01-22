@@ -1,0 +1,5 @@
+XSym
+0113
+9acc8995152df0bc0435e98dd6c01d43
+../../../../FirebasePerformance/Frameworks/FirebasePerformance.framework/Headers/FIRPerformanceSwiftNameSupport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

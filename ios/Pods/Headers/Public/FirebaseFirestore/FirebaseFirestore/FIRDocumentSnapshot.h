@@ -1,0 +1,5 @@
+XSym
+0098
+f2a7c398f0641eae57ceed891246f08e
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRDocumentSnapshot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

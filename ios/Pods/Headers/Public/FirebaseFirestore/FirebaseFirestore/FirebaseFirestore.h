@@ -1,0 +1,5 @@
+XSym
+0096
+6b06c99d40cc0bcbb4c7250cdd3e89e5
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FirebaseFirestore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

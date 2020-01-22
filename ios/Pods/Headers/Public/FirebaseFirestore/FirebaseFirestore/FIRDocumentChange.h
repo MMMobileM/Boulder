@@ -1,0 +1,5 @@
+XSym
+0096
+c443c22c097a1d421d1d8b5d435f9d06
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRDocumentChange.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

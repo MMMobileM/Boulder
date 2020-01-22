@@ -1,0 +1,5 @@
+XSym
+0091
+72068f02eeb8f13accb7b7e078c1646f
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRFieldPath.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

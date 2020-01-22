@@ -1,0 +1,5 @@
+XSym
+0099
+034022988a0fe1ee0cec91c68db999b7
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRFirestoreSettings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

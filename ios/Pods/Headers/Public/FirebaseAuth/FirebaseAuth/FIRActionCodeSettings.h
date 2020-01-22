@@ -1,0 +1,5 @@
+XSym
+0090
+b2a407886d656efa803510f7b38a6da4
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

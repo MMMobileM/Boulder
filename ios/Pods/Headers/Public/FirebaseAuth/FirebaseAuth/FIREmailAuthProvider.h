@@ -1,0 +1,5 @@
+XSym
+0089
+3946f13af5829219927558747cb87cd0
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

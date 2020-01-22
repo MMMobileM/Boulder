@@ -1,0 +1,5 @@
+XSym
+0097
+d0342eb8b9f3852a19335fb45ed021f1
+../../../../FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

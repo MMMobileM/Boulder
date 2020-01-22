@@ -1,0 +1,5 @@
+XSym
+0093
+88043fafccd9dd4b81ec64804ae3a93c
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRTransaction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

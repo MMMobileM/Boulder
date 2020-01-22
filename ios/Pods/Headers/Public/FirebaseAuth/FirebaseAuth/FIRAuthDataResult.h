@@ -1,0 +1,5 @@
+XSym
+0086
+978db6495f0aa40e5a5fc093e4999290
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

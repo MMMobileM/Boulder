@@ -1,0 +1,5 @@
+XSym
+0092
+61b6aa5115ebc65c7613b8e78a806fe3
+../../../../FirebaseFirestore/Frameworks/FirebaseFirestore.framework/Headers/FIRWriteBatch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
