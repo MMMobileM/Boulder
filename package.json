@@ -11,7 +11,7 @@
   "dependencies": {
     "@remobile/react-native-toast": "^1.0.7",
     "apsl-react-native-button": "^3.1.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "dateformat": "^3.0.2",
     "eslint": "^3.9.1",
     "eslint-config-airbnb": "^13.0.0",
