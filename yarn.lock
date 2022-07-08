@@ -5353,9 +5353,9 @@ module-parent@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/module-parent/-/module-parent-0.0.2.tgz#be1cbb3cb6a55060fc86467d2f2d2cd0a600e199"
 
-moment@2.x.x, moment@^2.19.3:
-  version "2.20.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
+moment@2.x.x, moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 morgan@^1.9.0:
   version "1.9.0"
